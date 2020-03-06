@@ -1,0 +1,29 @@
+body  {
+    background-image: url("img/background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;  
+  }
+
+#bestPractise{
+    float: left;
+    }
+  .card-header{
+      color: 	#008B8B;
+  }
+
+.dot {
+  height: 50px;
+  width: 50px;
+  background: #008B8B; 
+  border: 1px solid #245D79;
+  border-radius: 50%;
+  display: inline-block;
+  color: aliceblue;
+}
+.bubbleTriangle p{
+margin-top: 10px;
+margin-left: 3px;
+}
